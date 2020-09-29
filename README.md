@@ -1,7 +1,26 @@
 ### Hi there 👋
+- 💬 Ask me about anything! always happy to help
+- ⚡ Fun fact: I have a private Repo as well! ;-)
+
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=82Blu&theme=dark)](https://github.com/82Blu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=82Blu)](https://github.com/82Blu/github-readme-stats)
+
+
+### Technologies:
+
+![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!--
-**82Blu/82Blu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mufana/mufana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  
